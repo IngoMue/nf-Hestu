@@ -32,8 +32,11 @@ The pipeline performs the following steps to estimate Heterozygosity:
 
 The following tools and scripts are used for the respective steps:
 <sup>1</sup> R script `/bin/01_calcMinMax.R`
+
 <sup>2</sup> [`ANGSD`](https://github.com/ANGSD/angsd) (version 0.940)
+
 <sup>3</sup> R script `/bin/02_Hestu.R`
+
 <sup>4</sup> R script `/bin/03_Hestu_pop.R`
 
 ## Input
