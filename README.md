@@ -1,5 +1,5 @@
 # nf-Hestu
-A nextflow workflow to estimate heterozygosity through a genotype likelihood based approach implemented through [`ANGSD`](https://github.com/ANGSD/angsd)
+Shala-kala! You found me! A nextflow workflow to estimate heterozygosity through a genotype likelihood based approach implemented through [`ANGSD`](https://github.com/ANGSD/angsd)
 
 ## Quick Start
 
