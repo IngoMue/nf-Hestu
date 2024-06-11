@@ -1,0 +1,11 @@
+name: nf_Hestu_env
+channels:
+  - conda-forge
+  - bioconda
+  - r
+  - defaults
+dependencies:
+ - ANGSD=0.940
+ - r-base=4.2.3
+ - r-tidyverse=2.0.0
+ - r-ggpubr=0.6.0
