@@ -31,6 +31,7 @@ The pipeline performs the following steps to estimate Heterozygosity:
 * Estimate and visualise heterozygosity based on the approach suggested by [`ANGSD`](https://popgen.dk/angsd/index.php/Heterozygosity) <sup>3,4</sup>
 
 The following tools and scripts are used for the respective steps:
+
 <sup>1</sup> R script `/bin/01_calcMinMax.R`
 
 <sup>2</sup> [`ANGSD`](https://github.com/ANGSD/angsd) (version 0.940)
